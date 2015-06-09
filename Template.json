@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "AS2 Package", 
+"title": "Agrarian Skies 2", 
+"version": "MODPACKVERSION", 
+"location": "https://www.lolnet.co.nz/modpack/AS2.json", 
+"priority": 1
+}
+]
+}

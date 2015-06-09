@@ -1,0 +1,741 @@
+{
+    ReturnToStart: 1b,
+    NpcInv: [
+        {
+            Slot: 0b,
+            id: 4989s,
+            Count: 1b,
+            tag: {
+                MaxH: 40,
+                Health: 40,
+                IsAnalyzed: 1b,
+                Genome: {
+                    Chromosomes: [
+                        {
+                            UID1: "forestry.speciesSteadfast",
+                            UID0: "forestry.speciesSteadfast",
+                            Slot: 0b
+                        },
+                        {
+                            UID1: "forestry.speedSlower",
+                            UID0: "forestry.speedSlower",
+                            Slot: 1b
+                        },
+                        {
+                            UID1: "forestry.lifespanNormal",
+                            UID0: "forestry.lifespanNormal",
+                            Slot: 2b
+                        },
+                        {
+                            UID1: "forestry.fertilityNormal",
+                            UID0: "forestry.fertilityNormal",
+                            Slot: 3b
+                        },
+                        {
+                            UID1: "forestry.toleranceNone",
+                            UID0: "forestry.toleranceNone",
+                            Slot: 4b
+                        },
+                        {
+                            UID1: "forestry.boolTrue",
+                            UID0: "forestry.boolTrue",
+                            Slot: 5b
+                        },
+                        {
+                            UID1: "forestry.toleranceNone",
+                            UID0: "forestry.toleranceNone",
+                            Slot: 7b
+                        },
+                        {
+                            UID1: "forestry.boolFalse",
+                            UID0: "forestry.boolFalse",
+                            Slot: 8b
+                        },
+                        {
+                            UID1: "forestry.boolTrue",
+                            UID0: "forestry.boolTrue",
+                            Slot: 9b
+                        },
+                        {
+                            UID1: "forestry.flowersVanilla",
+                            UID0: "forestry.flowersVanilla",
+                            Slot: 10b
+                        },
+                        {
+                            UID1: "forestry.floweringSlowest",
+                            UID0: "forestry.floweringSlowest",
+                            Slot: 11b
+                        },
+                        {
+                            UID1: "forestry.territoryDefault",
+                            UID0: "forestry.territoryDefault",
+                            Slot: 12b
+                        },
+                        {
+                            UID1: "forestry.effectNone",
+                            UID0: "forestry.effectNone",
+                            Slot: 13b
+                        }
+                    ]
+                }
+            },
+            Damage: 0s
+        },
+        {
+            Slot: 1b,
+            id: 4988s,
+            Count: 1b,
+            tag: {
+                MaxH: 40,
+                Health: 40,
+                IsAnalyzed: 1b,
+                Genome: {
+                    Chromosomes: [
+                        {
+                            UID1: "forestry.speciesSteadfast",
+                            UID0: "forestry.speciesSteadfast",
+                            Slot: 0b
+                        },
+                        {
+                            UID1: "forestry.speedSlower",
+                            UID0: "forestry.speedSlower",
+                            Slot: 1b
+                        },
+                        {
+                            UID1: "forestry.lifespanNormal",
+                            UID0: "forestry.lifespanNormal",
+                            Slot: 2b
+                        },
+                        {
+                            UID1: "forestry.fertilityNormal",
+                            UID0: "forestry.fertilityNormal",
+                            Slot: 3b
+                        },
+                        {
+                            UID1: "forestry.toleranceNone",
+                            UID0: "forestry.toleranceNone",
+                            Slot: 4b
+                        },
+                        {
+                            UID1: "forestry.boolTrue",
+                            UID0: "forestry.boolTrue",
+                            Slot: 5b
+                        },
+                        {
+                            UID1: "forestry.toleranceNone",
+                            UID0: "forestry.toleranceNone",
+                            Slot: 7b
+                        },
+                        {
+                            UID1: "forestry.boolFalse",
+                            UID0: "forestry.boolFalse",
+                            Slot: 8b
+                        },
+                        {
+                            UID1: "forestry.boolTrue",
+                            UID0: "forestry.boolTrue",
+                            Slot: 9b
+                        },
+                        {
+                            UID1: "forestry.flowersVanilla",
+                            UID0: "forestry.flowersVanilla",
+                            Slot: 10b
+                        },
+                        {
+                            UID1: "forestry.floweringSlowest",
+                            UID0: "forestry.floweringSlowest",
+                            Slot: 11b
+                        },
+                        {
+                            UID1: "forestry.territoryDefault",
+                            UID0: "forestry.territoryDefault",
+                            Slot: 12b
+                        },
+                        {
+                            UID1: "forestry.effectNone",
+                            UID0: "forestry.effectNone",
+                            Slot: 13b
+                        }
+                    ]
+                }
+            },
+            Damage: 0s
+        },
+        {
+            Slot: 2b,
+            id: 5008s,
+            Count: 1b,
+            tag: {
+                IsAnalyzed: 0b,
+                Genome: {
+                    Chromosomes: [
+                        {
+                            UID1: "forestry.treeKapok",
+                            UID0: "forestry.treeKapok",
+                            Slot: 0b
+                        },
+                        {
+                            UID1: "forestry.growthLightlevel",
+                            UID0: "forestry.growthLightlevel",
+                            Slot: 1b
+                        },
+                        {
+                            UID1: "forestry.heightLarge",
+                            UID0: "forestry.heightLarge",
+                            Slot: 2b
+                        },
+                        {
+                            UID1: "forestry.saplingsLower",
+                            UID0: "forestry.saplingsLower",
+                            Slot: 3b
+                        },
+                        {
+                            UID1: "forestry.fruitNone",
+                            UID0: "forestry.fruitNone",
+                            Slot: 4b
+                        },
+                        {
+                            UID1: "forestry.yieldLowest",
+                            UID0: "forestry.yieldLowest",
+                            Slot: 5b
+                        },
+                        {
+                            UID1: "forestry.plantTypeNone",
+                            UID0: "forestry.plantTypeNone",
+                            Slot: 6b
+                        },
+                        {
+                            UID1: "forestry.sappinessLow",
+                            UID0: "forestry.sappinessLow",
+                            Slot: 7b
+                        },
+                        {
+                            UID1: "forestry.territoryDefault",
+                            UID0: "forestry.territoryDefault",
+                            Slot: 8b
+                        },
+                        {
+                            UID1: "forestry.leavesNone",
+                            UID0: "forestry.leavesNone",
+                            Slot: 9b
+                        },
+                        {
+                            UID1: "forestry.maturationSlow",
+                            UID0: "forestry.maturationSlow",
+                            Slot: 10b
+                        },
+                        {
+                            UID1: "forestry.i1d",
+                            UID0: "forestry.i1d",
+                            Slot: 11b
+                        },
+                        {
+                            UID1: "forestry.fireproofFalse",
+                            UID0: "forestry.fireproofFalse",
+                            Slot: 12b
+                        }
+                    ]
+                }
+            },
+            Damage: 0s
+        },
+        {
+            Slot: 3b,
+            id: 5008s,
+            Count: 1b,
+            tag: {
+                IsAnalyzed: 0b,
+                Genome: {
+                    Chromosomes: [
+                        {
+                            UID1: "forestry.treeMahoe",
+                            UID0: "forestry.treeMahoe",
+                            Slot: 0b
+                        },
+                        {
+                            UID1: "forestry.growthLightlevel",
+                            UID0: "forestry.growthLightlevel",
+                            Slot: 1b
+                        },
+                        {
+                            UID1: "forestry.heightSmall",
+                            UID0: "forestry.heightSmall",
+                            Slot: 2b
+                        },
+                        {
+                            UID1: "forestry.saplingsLower",
+                            UID0: "forestry.saplingsLower",
+                            Slot: 3b
+                        },
+                        {
+                            UID1: "forestry.fruitNone",
+                            UID0: "forestry.fruitNone",
+                            Slot: 4b
+                        },
+                        {
+                            UID1: "forestry.yieldLowest",
+                            UID0: "forestry.yieldLowest",
+                            Slot: 5b
+                        },
+                        {
+                            UID1: "forestry.plantTypeNone",
+                            UID0: "forestry.plantTypeNone",
+                            Slot: 6b
+                        },
+                        {
+                            UID1: "forestry.sappinessHigh",
+                            UID0: "forestry.sappinessHigh",
+                            Slot: 7b
+                        },
+                        {
+                            UID1: "forestry.territoryDefault",
+                            UID0: "forestry.territoryDefault",
+                            Slot: 8b
+                        },
+                        {
+                            UID1: "forestry.leavesNone",
+                            UID0: "forestry.leavesNone",
+                            Slot: 9b
+                        },
+                        {
+                            UID1: "forestry.maturationSlowest",
+                            UID0: "forestry.maturationSlowest",
+                            Slot: 10b
+                        },
+                        {
+                            UID1: "forestry.i1d",
+                            UID0: "forestry.i1d",
+                            Slot: 11b
+                        },
+                        {
+                            UID1: "forestry.fireproofFalse",
+                            UID0: "forestry.fireproofFalse",
+                            Slot: 12b
+                        }
+                    ]
+                }
+            },
+            Damage: 0s
+        },
+        {
+            Slot: 4b,
+            id: 5008s,
+            Count: 1b,
+            tag: {
+                IsAnalyzed: 0b,
+                Genome: {
+                    Chromosomes: [
+                        {
+                            UID1: "forestry.treeCocobolo",
+                            UID0: "forestry.treeCocobolo",
+                            Slot: 0b
+                        },
+                        {
+                            UID1: "forestry.growthLightlevel",
+                            UID0: "forestry.growthLightlevel",
+                            Slot: 1b
+                        },
+                        {
+                            UID1: "forestry.heightLargest",
+                            UID0: "forestry.heightLargest",
+                            Slot: 2b
+                        },
+                        {
+                            UID1: "forestry.saplingsLower",
+                            UID0: "forestry.saplingsLower",
+                            Slot: 3b
+                        },
+                        {
+                            UID1: "forestry.fruitNone",
+                            UID0: "forestry.fruitNone",
+                            Slot: 4b
+                        },
+                        {
+                            UID1: "forestry.yieldLowest",
+                            UID0: "forestry.yieldLowest",
+                            Slot: 5b
+                        },
+                        {
+                            UID1: "forestry.plantTypeNone",
+                            UID0: "forestry.plantTypeNone",
+                            Slot: 6b
+                        },
+                        {
+                            UID1: "forestry.sappinessLowest",
+                            UID0: "forestry.sappinessLowest",
+                            Slot: 7b
+                        },
+                        {
+                            UID1: "forestry.territoryDefault",
+                            UID0: "forestry.territoryDefault",
+                            Slot: 8b
+                        },
+                        {
+                            UID1: "forestry.leavesNone",
+                            UID0: "forestry.leavesNone",
+                            Slot: 9b
+                        },
+                        {
+                            UID1: "forestry.maturationAverage",
+                            UID0: "forestry.maturationAverage",
+                            Slot: 10b
+                        },
+                        {
+                            UID1: "forestry.i1d",
+                            UID0: "forestry.i1d",
+                            Slot: 11b
+                        },
+                        {
+                            UID1: "forestry.fireproofFalse",
+                            UID0: "forestry.fireproofFalse",
+                            Slot: 12b
+                        }
+                    ]
+                }
+            },
+            Damage: 0s
+        },
+        {
+            Slot: 5b,
+            id: 1046s,
+            Count: 1b,
+            Damage: 5s
+        }
+    ],
+    PotionEffect: 4,
+    Size: 5,
+    stopAndInteract: 1b,
+    Resistances: {
+        Arrow: 1.0f,
+        Explosion: 1.0f,
+        Knockback: 1.0f,
+        Melee: 1.0f
+    },
+    BossBar: 1b,
+    RespawnTime: 0,
+    NpcAngrySound: "",
+    ReactsToFire: 0b,
+    IgnoreCobweb: 0b,
+    PositionOffsetZ: 5.0f,
+    PositionOffsetY: 10.0f,
+    PositionOffsetX: 5.0f,
+    TransformHasAI: 0b,
+    AttackStrenght: 10,
+    PersistenceRequired: 0b,
+    id: "customnpcs.CustomNpc",
+    HealF: 10000.0f,
+    MovingPatern: 0,
+    NpcLines: {
+        Lines: [
+        ]
+    },
+    DefendFaction: 0b,
+    FireIndirect: 0,
+    NpcVisible: 0,
+    LinkedNpcName: "",
+    FindShelter: 2,
+    ScriptsContainers: [
+    ],
+    Air: 300s,
+    TacticalVariant: 0,
+    Orientation: 0,
+    ScriptLanguage: "ECMAScript",
+    KnockBack: 0,
+    TransformHasJob: 0b,
+    CustomName: "",
+    CanDespawn: 0b,
+    BurnInSun: 0b,
+    StandingState: 0,
+    AttackInvisible: 0b,
+    HurtTime: 0s,
+    WalkingRange: 5,
+    CustomNameVisible: 0b,
+    ShotCount: 1,
+    pDur: 5,
+    AttackRange: 5,
+    NpcKillLines: {
+        Lines: [
+        ]
+    },
+    PotionImmune: 1b,
+    AvoidsSun: 0b,
+    Texture: "forestry:textures/entity/butterflies/lepiEmeraldPeacock.png",
+    NpcJob: 0,
+    BurstCount: 1,
+    NpcAttackLines: {
+        Lines: [
+        ]
+    },
+    pSpeed: 10,
+    pArea: 0,
+    DeathTime: 0s,
+    pImpact: 0,
+    DropChances: [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    MoveState: 0,
+    RangeAndMelee: 0,
+    pRender3D: 0b,
+    Motion: [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    CombatRegen: 0,
+    pEffect: 0,
+    DistanceToMelee: 4,
+    NpcStepSound: "",
+    FireRate: 5,
+    pEffAmp: 0,
+    OnGround: 1b,
+    Dimension: -1,
+    ImmuneToFire: 1b,
+    NpcKilledLines: {
+        Lines: [
+        ]
+    },
+    UUIDMost: -745000524156877468L,
+    Fire: -1s,
+    DisablePitch: 0b,
+    pPhysics: 1b,
+    TransformHasInv: 0b,
+    NpcInteractLines: {
+        Lines: [
+            {
+                Line: "Hello @p",
+                Song: "",
+                Slot: 0
+            }
+        ]
+    },
+    pSpin: 0b,
+    NpcHurtSound: "minecraft:game.player.hurt",
+    pTrail: 0,
+    CreatureType: 0,
+    Attributes: [
+        {
+            Base: 10000.0d,
+            Name: "generic.maxHealth"
+        },
+        {
+            Base: 0.0d,
+            Name: "generic.knockbackResistance"
+        },
+        {
+            Base: 0.25d,
+            Name: "generic.movementSpeed"
+        },
+        {
+            Base: 32.0d,
+            Name: "generic.followRange"
+        },
+        {
+            Base: 10.0d,
+            Name: "generic.attackDamage"
+        }
+    ],
+    Invulnerable: 0b,
+    TransformHasDisplay: 0b,
+    NoFallDamage: 1b,
+    AbsorptionAmount: 0.0f,
+    TransformHasRole: 0b,
+    Name: "ButterFlutter The Terrible",
+    FallDistance: 0.0f,
+    NpcIdleSound: "",
+    Weapons: [
+        {
+            Slot: 0b,
+            id: 4521s,
+            Count: 1b,
+            Damage: 0s
+        }
+    ],
+    NPCDialogOptions: [
+    ],
+    AggroRange: 16,
+    DirectLOS: 1b,
+    HealthRegen: 3,
+    NpcModelData: {
+        LegsConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        },
+        BodyConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        },
+        EntityClass: "forestry.lepidopterology.entities.EntityButterfly",
+        LegParts: {
+            Type: 0b,
+            PlayerTexture: 1b,
+            Color: 16777215
+        },
+        Parts: [
+        ],
+        Breasts: 0b,
+        Headwear: 1b,
+        ArmsConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        },
+        ExtraData: {
+        },
+        HeadConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        }
+    },
+    minDelay: 20,
+    DoorInteract: 2,
+    MoveSpeed: 5,
+    TransformEditingModus: 0b,
+    UsingSkinUrl: 0b,
+    Leashed: 0b,
+    SkinUrl: "",
+    CanSwim: 1b,
+    MaxHealth: 10000,
+    HideBodyWhenKilled: 0b,
+    AttackSpeed: 20,
+    PotionDuration: 1,
+    maxDelay: 40,
+    ScriptEnabled: 0b,
+    Role: 0,
+    DropChance: [
+        {
+            Integer: 3,
+            Slot: 0
+        },
+        {
+            Integer: 2,
+            Slot: 1
+        },
+        {
+            Integer: 15,
+            Slot: 2
+        },
+        {
+            Integer: 15,
+            Slot: 3
+        },
+        {
+            Integer: 23,
+            Slot: 4
+        },
+        {
+            Integer: 40,
+            Slot: 5
+        },
+        {
+            Integer: 100,
+            Slot: 6
+        },
+        {
+            Integer: 100,
+            Slot: 7
+        },
+        {
+            Integer: 100,
+            Slot: 8
+        }
+    ],
+    FactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    pDamage: 4,
+    KilledTime: 0L,
+    AimWhileShooting: 0b,
+    CanPickUpLoot: 0b,
+    AttackOtherFactions: 0b,
+    CanDrown: 0b,
+    AttackTime: 0s,
+    pSize: 5,
+    CanSprint: 0b,
+    CanLeap: 0b,
+    TransformIsActive: 0b,
+    ForgeData: {
+        sAI: {
+            AvoidExplosions: 1b,
+            DefendVillage: 0b,
+            Griefing: 0b,
+            uAI: {
+            },
+            Rider: 0b
+        },
+        HungerOverhaulCheck: 4
+    },
+    MovingState: 0,
+    MovingPos: 0,
+    PotionAmp: 0,
+    OnAttack: 0,
+    TacticalRadius: 8,
+    MaxExp: 50,
+    PortalCooldown: 0,
+    pGlows: 0b,
+    TransformHasAdvanced: 0b,
+    TransformHasStats: 0b,
+    FiringSound: "random.bow",
+    ModRev: 16,
+    Accuracy: 60,
+    MinExp: 10,
+    Armor: [
+    ],
+    CloakTexture: "",
+    GlowTexture: "",
+    MaxFiringRange: 15,
+    pXlr8: 0b,
+    UUIDLeast: -8199297560146224615L,
+    Health: 10000s,
+    pExplode: 0b,
+    pStick: 0b,
+    MovingPause: 1b,
+    NpcDeathSound: "minecraft:game.player.hurt",
+    FactionID: 2,
+    Title: "",
+    TotalTicksAlive: 26206L,
+    Rotation: [
+        182.40137f,
+        0.0f
+    ],
+    ShowName: 0,
+    npcInteracting: 1b,
+    AvoidsWater: 0b,
+    Equipment: [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    NoLivingAnimation: 0b,
+    SpawnCycle: 3
+}

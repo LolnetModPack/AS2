@@ -1,0 +1,504 @@
+{
+    ReturnToStart: 1b,
+    NpcInv: [
+        {
+            Slot: 0b,
+            id: 4814s,
+            Count: 1b,
+            Damage: 0s
+        },
+        {
+            Slot: 1b,
+            id: 4816s,
+            Count: 1b,
+            Damage: 6s
+        },
+        {
+            Slot: 2b,
+            id: 4244s,
+            Count: 1b,
+            Damage: 0s
+        },
+        {
+            Slot: 3b,
+            id: 3s,
+            Count: 32b,
+            Damage: 0s
+        },
+        {
+            Slot: 4b,
+            id: 5s,
+            Count: 16b,
+            Damage: 5s
+        },
+        {
+            Slot: 5b,
+            id: 25s,
+            Count: 1b,
+            Damage: 0s
+        },
+        {
+            Slot: 6b,
+            id: 31s,
+            Count: 1b,
+            Damage: 1s
+        },
+        {
+            Slot: 7b,
+            id: 700s,
+            Count: 1b,
+            Damage: 0s
+        },
+        {
+            Slot: 8b,
+            id: 388s,
+            Count: 1b,
+            Damage: 0s
+        }
+    ],
+    PotionEffect: 3,
+    Size: 5,
+    stopAndInteract: 1b,
+    Resistances: {
+        Arrow: 1.0f,
+        Explosion: 1.0f,
+        Knockback: 1.0f,
+        Melee: 1.0f
+    },
+    BossBar: 0b,
+    RespawnTime: 20,
+    NpcAngrySound: "",
+    ReactsToFire: 0b,
+    IgnoreCobweb: 0b,
+    PositionOffsetZ: 5.0f,
+    PositionOffsetY: 5.0f,
+    PositionOffsetX: 5.0f,
+    TransformHasAI: 0b,
+    AttackStrenght: 10,
+    PersistenceRequired: 0b,
+    id: "customnpcs.CustomNpc",
+    HealF: 20000.0f,
+    MovingPatern: 0,
+    NpcLines: {
+        Lines: [
+        ]
+    },
+    DefendFaction: 0b,
+    FireIndirect: 0,
+    NpcVisible: 0,
+    LinkedNpcName: "",
+    FindShelter: 2,
+    ScriptsContainers: [
+    ],
+    Air: 300s,
+    TacticalVariant: 0,
+    Orientation: 0,
+    ScriptLanguage: "ECMAScript",
+    KnockBack: 1,
+    TransformHasJob: 0b,
+    CustomName: "",
+    CanDespawn: 0b,
+    BurnInSun: 0b,
+    TraderSold: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5970s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 1b,
+                id: 775s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 5463s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 130s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 970s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 9b,
+                id: 1011s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 12b,
+                id: 1005s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 15b,
+                id: 897s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    StandingState: 0,
+    AttackInvisible: 0b,
+    HurtTime: 0s,
+    WalkingRange: 5,
+    CustomNameVisible: 0b,
+    ShotCount: 1,
+    pDur: 5,
+    TraderIgnoreDamage: 0b,
+    AttackRange: 3,
+    NpcKillLines: {
+        Lines: [
+        ]
+    },
+    PotionImmune: 1b,
+    AvoidsSun: 0b,
+    Texture: "customnpcs:textures/Soaryn.png",
+    NpcJob: 0,
+    BurstCount: 1,
+    NpcAttackLines: {
+        Lines: [
+        ]
+    },
+    pSpeed: 10,
+    pArea: 0,
+    DeathTime: 0s,
+    pImpact: 0,
+    DropChances: [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    MoveState: 0,
+    RangeAndMelee: 0,
+    pRender3D: 0b,
+    Motion: [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    CombatRegen: 3,
+    pEffect: 0,
+    DistanceToMelee: 4,
+    NpcStepSound: "",
+    FireRate: 5,
+    pEffAmp: 0,
+    OnGround: 1b,
+    Dimension: -1,
+    ImmuneToFire: 1b,
+    NpcKilledLines: {
+        Lines: [
+        ]
+    },
+    UUIDMost: -2101092273761139048L,
+    TraderMarket: "",
+    Fire: -1s,
+    DisablePitch: 0b,
+    pPhysics: 1b,
+    TransformHasInv: 0b,
+    NpcInteractLines: {
+        Lines: [
+            {
+                Line: "Hello @p",
+                Song: "",
+                Slot: 0
+            }
+        ]
+    },
+    TraderCurrency: {
+        NpcMiscInv: [
+            {
+                Slot: 33b,
+                id: 388s,
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 18b,
+                id: 54s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 19b,
+                id: 388s,
+                Count: 4b,
+                Damage: 0s
+            },
+            {
+                Slot: 21b,
+                id: 54s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 22b,
+                id: 388s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 24b,
+                id: 388s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 27b,
+                id: 388s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 30b,
+                id: 388s,
+                Count: 2b,
+                Damage: 0s
+            }
+        ]
+    },
+    pSpin: 0b,
+    NpcHurtSound: "minecraft:game.player.hurt",
+    pTrail: 0,
+    CreatureType: 1,
+    Attributes: [
+        {
+            Base: 20000.0d,
+            Name: "generic.maxHealth"
+        },
+        {
+            Base: 0.0d,
+            Name: "generic.knockbackResistance"
+        },
+        {
+            Base: 0.25d,
+            Name: "generic.movementSpeed"
+        },
+        {
+            Base: 32.0d,
+            Name: "generic.followRange"
+        },
+        {
+            Base: 10.0d,
+            Name: "generic.attackDamage"
+        }
+    ],
+    Invulnerable: 0b,
+    TransformHasDisplay: 0b,
+    NoFallDamage: 1b,
+    AbsorptionAmount: 0.0f,
+    TransformHasRole: 0b,
+    Name: "Soaryn",
+    FallDistance: 0.0f,
+    NpcIdleSound: "",
+    Weapons: [
+        {
+            Slot: 0b,
+            id: 4694s,
+            Count: 1b,
+            tag: {
+                Energy: 160000
+            },
+            Damage: 0s
+        }
+    ],
+    NPCDialogOptions: [
+    ],
+    AggroRange: 16,
+    DirectLOS: 1b,
+    HealthRegen: 5,
+    NpcModelData: {
+        LegsConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        },
+        BodyConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        },
+        LegParts: {
+            Type: 0b,
+            PlayerTexture: 1b,
+            Color: 16777215
+        },
+        Parts: [
+        ],
+        Breasts: 0b,
+        Headwear: 2b,
+        ArmsConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        },
+        ExtraData: {
+        },
+        HeadConfig: {
+            ScaleZ: 1.0f,
+            TransZ: 0.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleY: 1.0f,
+            ScaleX: 1.0f
+        }
+    },
+    minDelay: 20,
+    DoorInteract: 2,
+    MoveSpeed: 5,
+    TransformEditingModus: 0b,
+    UsingSkinUrl: 0b,
+    Leashed: 0b,
+    SkinUrl: "",
+    CanSwim: 1b,
+    TraderIgnoreNBT: 0b,
+    MaxHealth: 20000,
+    HideBodyWhenKilled: 1b,
+    AttackSpeed: 20,
+    PotionDuration: 5,
+    maxDelay: 40,
+    ScriptEnabled: 0b,
+    Role: 1,
+    DropChance: [
+        {
+            Integer: 2,
+            Slot: 0
+        },
+        {
+            Integer: 2,
+            Slot: 1
+        },
+        {
+            Integer: 13,
+            Slot: 2
+        },
+        {
+            Integer: 20,
+            Slot: 3
+        },
+        {
+            Integer: 46,
+            Slot: 4
+        },
+        {
+            Integer: 21,
+            Slot: 5
+        },
+        {
+            Integer: 30,
+            Slot: 6
+        },
+        {
+            Integer: 6,
+            Slot: 7
+        },
+        {
+            Integer: 2,
+            Slot: 8
+        }
+    ],
+    FactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    pDamage: 4,
+    KilledTime: 0L,
+    AimWhileShooting: 0b,
+    CanPickUpLoot: 0b,
+    AttackOtherFactions: 0b,
+    CanDrown: 0b,
+    AttackTime: 0s,
+    pSize: 5,
+    CanSprint: 0b,
+    CanLeap: 0b,
+    TransformIsActive: 0b,
+    ForgeData: {
+        sAI: {
+            AvoidExplosions: 1b,
+            DefendVillage: 0b,
+            Griefing: 0b,
+            uAI: {
+            },
+            Rider: 0b
+        },
+        HungerOverhaulCheck: 6
+    },
+    MovingState: 0,
+    MovingPos: 0,
+    PotionAmp: 0,
+    OnAttack: 0,
+    TacticalRadius: 8,
+    MaxExp: 30,
+    PortalCooldown: 0,
+    pGlows: 0b,
+    TransformHasAdvanced: 0b,
+    TransformHasStats: 0b,
+    FiringSound: "random.bow",
+    ModRev: 16,
+    Accuracy: 60,
+    MinExp: 10,
+    Armor: [
+    ],
+    CloakTexture: "",
+    GlowTexture: "",
+    MaxFiringRange: 15,
+    pXlr8: 0b,
+    UUIDLeast: -5339006527420640123L,
+    Health: 20000s,
+    pExplode: 0b,
+    pStick: 0b,
+    MovingPause: 1b,
+    NpcDeathSound: "minecraft:game.player.hurt",
+    FactionID: 0,
+    Title: "",
+    TotalTicksAlive: 39594L,
+    Rotation: [
+        357.44925f,
+        0.0f
+    ],
+    ShowName: 0,
+    npcInteracting: 1b,
+    AvoidsWater: 0b,
+    Equipment: [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    NoLivingAnimation: 0b,
+    SpawnCycle: 0
+}

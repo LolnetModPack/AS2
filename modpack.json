@@ -1,0 +1,14 @@
+{
+  "name": "AS2 Package",
+  "title": "Agrarian Skies 2",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "servers.dat",
+      "options.txt"
+    ]
+  }
+}
