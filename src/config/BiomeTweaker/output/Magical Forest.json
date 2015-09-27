@@ -10,8 +10,8 @@
   "Filler Block": "minecraft:dirt",
   "Actual Filler Block": "minecraft:stone",
   "Liquid Filler Block": "minecraft:water",
-  "Grass Color": "Not Set",
-  "Foliage Color": "Not Set",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
   "Water Color": "30702",
   "Temperature": 0.7,
   "Humidity": 0.6,
@@ -22,6 +22,14 @@
     "MAGICAL",
     "FOREST"
   ],
+  "BiomeManager Entries": {
+    "WARM Weights": [
+      5
+    ],
+    "COOL Weights": [
+      5
+    ]
+  },
   "Spawnable Creatures": [
     {
       "Entity Class": "net.minecraft.entity.passive.EntitySheep",
@@ -140,13 +148,7 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "ganymedes01.headcrumbs.entity.EntityCelebrity",
-      "Weight": 25,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "ganymedes01.headcrumbs.entity.EntityCelebrity",
+      "Entity Class": "ganymedes01.headcrumbs.entity.EntityHuman",
       "Weight": 25,
       "Min Group Count": 1,
       "Max Group Count": 4

@@ -10,8 +10,8 @@
   "Filler Block": "minecraft:stained_hardened_clay",
   "Actual Filler Block": "minecraft:stone",
   "Liquid Filler Block": "minecraft:water",
-  "Grass Color": "Not Set",
-  "Foliage Color": "Not Set",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
   "Temperature": 2.0,
   "Humidity": 0.0,
@@ -22,6 +22,7 @@
     "MESA",
     "SANDY"
   ],
+  "BiomeManager Entries": {},
   "Spawnable Creatures": [],
   "Spawnable Monsters": [
     {
@@ -67,13 +68,13 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "ganymedes01.headcrumbs.entity.EntityCelebrity",
-      "Weight": 25,
+      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBlitz",
+      "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 4
     },
     {
-      "Entity Class": "ganymedes01.headcrumbs.entity.EntityCelebrity",
+      "Entity Class": "ganymedes01.headcrumbs.entity.EntityHuman",
       "Weight": 25,
       "Min Group Count": 1,
       "Max Group Count": 4

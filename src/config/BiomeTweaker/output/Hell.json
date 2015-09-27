@@ -10,8 +10,8 @@
   "Filler Block": "minecraft:dirt",
   "Actual Filler Block": "minecraft:stone",
   "Liquid Filler Block": "minecraft:water",
-  "Grass Color": "Not Set",
-  "Foliage Color": "Not Set",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
   "Temperature": 2.0,
   "Humidity": 0.0,
@@ -23,6 +23,7 @@
     "DRY",
     "NETHER"
   ],
+  "BiomeManager Entries": {},
   "Spawnable Creatures": [
     {
       "Entity Class": "mods.natura.entity.ImpEntity",
@@ -78,18 +79,6 @@
       "Entity Class": "mods.natura.entity.BabyHeatscarSpider",
       "Weight": 7,
       "Min Group Count": 4,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "ganymedes01.headcrumbs.entity.EntityCelebrity",
-      "Weight": 25,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "ganymedes01.headcrumbs.entity.EntityCelebrity",
-      "Weight": 25,
-      "Min Group Count": 1,
       "Max Group Count": 4
     }
   ],

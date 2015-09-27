@@ -18,6 +18,7 @@ Found creative tab: BiblioWoodsForestry
 Found creative tab: BiblioWoodsNatura
 Found creative tab: BigReactors
 Found creative tab: Botania
+Found creative tab: buildingBlocks
 Found creative tab: enchiridion
 Found creative tab: EnderTechAll
 Found creative tab: extratic.parts
@@ -45,7 +46,6 @@ Found creative tab: transportation
 Found creative tab: redstone
 Found creative tab: natura.nether
 Found creative tab: natura.trees
-Found creative tab: buildingBlocks
 Found creative tab: Nether Ores
 Found creative tab: nodalmechanics.tab
 Found creative tab: redstonearsenal.creativeTab
@@ -65,6 +65,7 @@ Found creative tab: TConstructEquipables
 Found creative tab: thaumcraft
 Found creative tab: thaumichorizons
 Found creative tab: thermaldynamics.creativeTab
+Found creative tab: thermaldynamics.creativeTabCovers
 Found creative tab: thermalexpansion.creativeTabBlocks
 Found creative tab: thermalexpansion.creativeTabItems
 Found creative tab: thermalexpansion.creativeTabTools
@@ -134,18 +135,18 @@ Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: MineFactoryReloaded:brick_15
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, MineFactoryReloaded:brick_15
+getRandomMaterial called. Returned: MineFactoryReloaded:brick_14
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, MineFactoryReloaded:brick_14
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: MineFactoryReloaded:machine.0
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, MineFactoryReloaded:machine.0
+getRandomMaterial called. Returned: MineFactoryReloaded:brick_15
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, MineFactoryReloaded:brick_15
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
-Regex match found! BiblioCraft:* matches BiblioCraft:Armor.
+Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
 Regex match found! BiblioCraft:* matches BiblioCraft:BiblioBell.
 Regex match found! BiblioCraft:* matches BiblioCraft:BiblioBorderlessPainting.
 Regex match found! BiblioCraft:* matches BiblioCraft:BiblioCase.
@@ -176,8 +177,8 @@ Regex match found! BiblioCraft:* matches BiblioCraft:BiblioTypewriter.
 Regex match found! BiblioCraft:* matches BiblioCraft:BiblioWorkbench.
 Regex match found! BiblioCraft:* matches BiblioCraft:Bibliotheca.
 Regex match found! BiblioCraft:* matches BiblioCraft:BookcaseFilled.
-Regex match found! BiblioCraft:* matches BiblioCraft:Printing.
-Regex match found! BiblioCraft:* matches BiblioCraft:Typesetting.
+Regex match found! BiblioCraft:* matches BiblioCraft:Printing Press.
+Regex match found! BiblioCraft:* matches BiblioCraft:Typesetting Machine.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.AtlasBook.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.AtlasPlate.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioChase.
@@ -208,7 +209,7 @@ Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack4.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack5.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.tape.
 Regex match found! BiblioCraft:* matches BiblioCraft:item.tapeMeasure.
-Cannot find ItemStack BiblioCraft:Armor
+Found ItemStack BiblioCraft:Armor Stand. 64xtile.BiblioArmorStand@0
 Found ItemStack BiblioCraft:BiblioBell. 64xtile.BiblioBell@0
 Found ItemStack BiblioCraft:BiblioBorderlessPainting. 64xtile.BiblioBorderlessPainting@0
 Found ItemStack BiblioCraft:BiblioCase. 64xtile.BiblioCase@0
@@ -239,8 +240,8 @@ Found ItemStack BiblioCraft:BiblioTypewriter. 64xtile.BiblioTypewriter@0
 Found ItemStack BiblioCraft:BiblioWorkbench. 64xtile.BiblioWorkbench@0
 Found ItemStack BiblioCraft:Bibliotheca. 64xtile.BiblioBookcase@0
 Found ItemStack BiblioCraft:BookcaseFilled. 64xtile.BookcaseFilled@0
-Cannot find ItemStack BiblioCraft:Printing
-Cannot find ItemStack BiblioCraft:Typesetting
+Found ItemStack BiblioCraft:Printing Press. 64xtile.BiblioPress@0
+Found ItemStack BiblioCraft:Typesetting Machine. 64xtile.BiblioType@0
 Found ItemStack BiblioCraft:item.AtlasBook. 1xitem.AtlasBook@0
 Found ItemStack BiblioCraft:item.AtlasPlate. 1xitem.AtlasPlate@0
 Found ItemStack BiblioCraft:item.BiblioChase. 64xitem.BiblioChase@0
@@ -274,8 +275,8 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 996
-override called. Params: appliedenergistics2, item.ItemFacade, 323
+getNumberOfTypes called. Returned: 1011
+override called. Params: appliedenergistics2, item.ItemFacade, 772
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
