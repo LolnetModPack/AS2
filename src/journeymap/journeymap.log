@@ -1,0 +1,114 @@
+[10:47:23] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[10:47:23] [Client thread/INFO] [JourneyMap] ensureCurrent ENTER
+[10:47:23] [Client thread/ERROR] [JMLogger] Default theme not found in D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\icon\theme\Victorian\Victorian.theme.json: Victorian (SUPPRESSED)
+[10:47:23] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[10:47:24] [Client thread/INFO] [PropertiesBase] Creating config file: D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.core.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.core.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.core.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Creating config file: D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.fullmap.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.fullmap.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.fullmap.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Creating config file: D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.minimap.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.minimap.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Updating config file from version "null" to "5.1.0": D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.minimap.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.minimap.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.minimap.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Creating config file: D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.minimap2.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.minimap2.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Updating config file from version "null" to "5.1.0": D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.minimap2.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.minimap2.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.minimap2.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Creating config file: D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.webmap.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.webmap.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Creating config file: D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.waypoint.config
+[10:47:24] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.waypoint.config
+[10:47:24] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.waypoint.config
+[10:47:24] [Client thread/INFO] [?] Version: JourneyMap 5.1.0 Unlimited, built with Forge 10.13.2.1291
+Forge: 10.13.4.1469
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
+Unlimited Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPets=true, showPlayers=true, showSelf=true, showVillagers=true, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xzyv, locationFormatVerbose=true, showCaves=true, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, active=true, compassFontScale=1, enabled=true, frameAlpha=100, name=minimap, orientation=My Heading, position=Top Right, preferredMapType=day, reticleOrientation=Compass, shape=Circle, showBiome=true, showCompass=true, showFps=false, showLocation=true, showReticle=true, sizePercent=30, terrainAlpha=100}
+MiniMapProperties2{enabled=true, shape=Rectangle, position=Top Center, showFps=false, showBiome=true, showLocation=true, showWaypointLabels=true, sizePercent=30, frameAlpha=60, terrainAlpha=60, orientation=My Heading, compassFontScale=1, showCompass=true, showReticle=true, reticleOrientation=Compass, preferredMapType=day, name=minimap2, id=2}
+FullMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPets=true, showPlayers=true, showSelf=true, showVillagers=true, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xzyv, locationFormatVerbose=true, showCaves=true, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, preferredMapType=day, showGrid=true}
+WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=true, showStaticBeam=true, showTexture=true, textureSmall=true}
+WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
+CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, checkUpdates=true, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=true, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=3, renderDistanceCaveMax=3, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=7, revealShape=Circle, themeName=Victorian, tileRenderType=1}
+[10:47:24] [Client thread/DEBUG] [StatTimer] elapsed was slow: 1114.055756
+[10:47:24] [Client thread/INFO] [JourneyMap] ensureCurrent EXIT, elapsed§8 count §r1§8 avg §r§r1114.06§8ms§r
+[10:47:41] [Client thread/INFO] [JourneyMap] postInitialize ENTER
+[10:47:41] [Client thread/DEBUG] [EventHandlerManager] net.techbrew.journeymap.forge.event.ChatEventHandler registered in MinecraftForgeBus
+[10:47:41] [Client thread/DEBUG] [EventHandlerManager] net.techbrew.journeymap.forge.event.StateTickHandler registered in FMLCommonHandlerBus
+[10:47:41] [Client thread/DEBUG] [EventHandlerManager] net.techbrew.journeymap.forge.event.WorldEventHandler registered in MinecraftForgeBus
+[10:47:41] [Client thread/DEBUG] [EventHandlerManager] net.techbrew.journeymap.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
+[10:47:42] [Client thread/DEBUG] [EventHandlerManager] net.techbrew.journeymap.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
+[10:47:42] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[10:47:42] [Client thread/INFO] [ModBlockDelegate] Registered IModBlockHandler for: 'CarpentersBlocks:blockCarpentersBlock, CarpentersBlocks:blockCarpentersBarrier, CarpentersBlocks:blockCarpentersBed, CarpentersBlocks:blockCarpentersCollapsibleBlock, CarpentersBlocks:blockCarpentersDaylightSensor, CarpentersBlocks:blockCarpentersDoor, CarpentersBlocks:blockCarpentersFlowerPot, CarpentersBlocks:blockCarpentersGarageDoor, CarpentersBlocks:blockCarpentersGate, CarpentersBlocks:blockCarpentersHatch, CarpentersBlocks:blockCarpentersPressurePlate, CarpentersBlocks:blockCarpentersSafe, CarpentersBlocks:blockCarpentersSlope, CarpentersBlocks:blockCarpentersStairs'.
+[10:47:42] [Client thread/DEBUG] [EventHandlerManager] net.techbrew.journeymap.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
+[10:47:42] [Client thread/DEBUG] [EventHandlerManager] net.techbrew.journeymap.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
+[10:47:42] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[10:47:42] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[10:47:43] [Client thread/INFO] [PropertiesBase] Updating config file from version "null" to "5.1.0": D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.webmap.config
+[10:47:43] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
+[10:47:43] [Client thread/DEBUG] [StatTimer] elapsed was slow: 1239.812307
+[10:47:43] [Client thread/INFO] [JourneyMap] postInitialize EXIT, elapsed§8 count §r1§8 avg §r§r1239.81§8ms§r
+[10:49:53] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:49:56] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:49:58] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:50:00] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:50:01] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:50:03] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:50:05] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:50:25] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:50:25] [Client thread/INFO] [PropertiesBase] Updating config file from version "null" to "5.1.0": D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.core.config
+[10:50:25] [Client thread/INFO] [PropertiesBase] Updating config file from version "null" to "5.1.0": D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.fullmap.config
+[10:50:25] [Client thread/INFO] [PropertiesBase] Updating config file from version "null" to "5.1.0": D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\config\5.1\journeymap.waypoint.config
+[10:50:26] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\data\mp\Minecraft~Server\waypoints
+[10:50:27] [Client thread/INFO] [ColorCache] Getting color palette for Resource Pack(s): Default
+[10:50:28] [Client thread/WARN] [ColorCache] Iconloader failed to get base color for BlockMD [MineFactoryReloaded:laserair:0]
+[10:50:29] [Client thread/WARN] [ColorCache] Iconloader failed to get base color for BlockMD [ThermalExpansion:FakeAirSignal:0]
+[10:50:29] [Client thread/WARN] [ColorCache] Iconloader failed to get base color for BlockMD [ThermalExpansion:FakeAirBarrier:0]
+[10:50:29] [Client thread/WARN] [ColorCache] Iconloader failed to get base color for BlockMD [ThermalExpansion:FakeAirLight:0]
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:0] trying BlockDoublePlant.func_149888_a(true, 0 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:1] trying BlockDoublePlant.func_149888_a(true, 0 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:2] trying BlockDoublePlant.func_149888_a(true, 2 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:3] trying BlockDoublePlant.func_149888_a(true, 2 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:4] trying BlockDoublePlant.func_149888_a(true, 4 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:5] trying BlockDoublePlant.func_149888_a(true, 4 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:6] trying BlockDoublePlant.func_149888_a(true, 6 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower2:7] trying BlockDoublePlant.func_149888_a(true, 6 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:0] trying BlockDoublePlant.func_149888_a(true, 0 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:1] trying BlockDoublePlant.func_149888_a(true, 0 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:2] trying BlockDoublePlant.func_149888_a(true, 2 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:3] trying BlockDoublePlant.func_149888_a(true, 2 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:4] trying BlockDoublePlant.func_149888_a(true, 4 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:5] trying BlockDoublePlant.func_149888_a(true, 4 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:6] trying BlockDoublePlant.func_149888_a(true, 6 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [IconLoader] BlockMD [Botania:doubleFlower1:7] trying BlockDoublePlant.func_149888_a(true, 6 throws exception: java.lang.NullPointerException
+[10:50:29] [Client thread/WARN] [ColorCache] Block throws NullPointerException when calling colorMultiplier(): tile.Sanguimancy.etherealToggledBlock
+[10:50:29] [Client thread/WARN] [ColorCache] Block throws NullPointerException when calling colorMultiplier(): tile.Sanguimancy.etherealBoundToggledBlock
+[10:50:29] [Client thread/WARN] [ColorCache] Block throws NullPointerException when calling colorMultiplier(): tile.Sanguimancy.etherealPersonalBlock
+[10:50:29] [Client thread/WARN] [ColorCache] Block throws NullPointerException when calling colorMultiplier(): tile.Sanguimancy.etherealCorruptedBlock
+[10:50:29] [Client thread/WARN] [ColorCache] Block throws NullPointerException when calling colorMultiplier(): tile.Sanguimancy.etherealBoundBlock
+[10:50:29] [Client thread/WARN] [ColorCache] Block throws NullPointerException when calling colorMultiplier(): tile.Sanguimancy.etherealBlock
+[10:50:29] [Client thread/WARN] [ColorCache] Block throws NullPointerException when calling colorMultiplier(): tile.Sanguimancy.etherealBoundCorruptedBlock
+[10:50:31] [Client thread/INFO] [ColorCache] New color palette generated with 22151 colors in 3365ms for: D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\colorpalette.json
+[10:50:31] [Client thread/INFO] [JourneyMap] Mapping started in D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 1300MB total, 387MB free 
+[10:50:36] [JM-VersionCheck-5/INFO] [VersionCheck$1] Checking for updated version: https://dl.dropboxusercontent.com/u/38077766/JourneyMap/journeymap-versions.json
+[10:50:36] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[10:50:37] [JM-texture-2/WARN] [TextureCache] Bad Response getting image: http://skins.minecraft.net/MinecraftSkins/Rev's BodyGuard.png : 400
+[10:50:37] [JM-VersionCheck-5/INFO] [VersionCheck$1] Current version online: JourneyMap 5.1.0 for Minecraft 1.7.10 on http://journeymap.info/download
+[10:51:17] [Client thread/INFO] [JourneyMap] Mapping halted in D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\data\mp\Minecraft~Server\DIM0
+[10:51:17] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:51:20] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:51:22] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:51:23] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:51:25] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:51:26] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\data\mp\Minecraft~Server\waypoints
+[10:51:26] [Client thread/INFO] [JourneyMap] Mapping started in D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 1344MB total, 694MB free 
+[10:51:48] [Client thread/INFO] [JourneyMap] Mapping halted in D:\Users\James\Documents\Curse\Minecraft\Instances\Agrarian Skies 2\journeymap\data\mp\Minecraft~Server\DIM0
